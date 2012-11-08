@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  principle: 1.5
+  interest_rate: 1.5
+  time_horizon: 1
+
+two:
+  principle: 1.5
+  interest_rate: 1.5
+  time_horizon: 1
